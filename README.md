@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 
 /////////// INSTALL
 // npm add react-router-dom@6
+// npm add react-big-calendar
+// npm add date-fns
