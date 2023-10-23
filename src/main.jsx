@@ -4,8 +4,8 @@ import './styles.css'
 import { CalendarApp } from './CalendarApp.jsx'
 
 
+// <React.StrictMode>
+{/* </React.StrictMode> */}
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <CalendarApp />
-  </React.StrictMode>,
+    <CalendarApp />,
 )
