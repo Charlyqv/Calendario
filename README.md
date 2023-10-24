@@ -13,3 +13,4 @@ Currently, two official plugins are available:
 // npm add react-big-calendar
 // npm add date-fns
 // npm i react-modal
+// npm i react-datepicker
