@@ -12,3 +12,4 @@ Currently, two official plugins are available:
 // npm add react-router-dom@6
 // npm add react-big-calendar
 // npm add date-fns
+// npm i react-modal
