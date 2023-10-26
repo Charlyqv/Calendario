@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 // npm add date-fns
 // npm i react-modal
 // npm i react-datepicker
+// npm install react-redux
